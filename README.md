@@ -1,6 +1,6 @@
 # web_socket
 
-websocket test
+Websocket implementation of server and client
 
 ## Getting Started
 
